@@ -128,4 +128,10 @@ margin-right: 45px;
 	margin-right: 150px;
 	margin-top: 200px;
 }
+#text{
+	font-size: 2em;
+	margin-top: 80px;
+	margin-left: 40px;
+	font-family: 'Merienda', cursive;
+}
 }
